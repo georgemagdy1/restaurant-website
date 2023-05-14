@@ -1,0 +1,33 @@
+
+body{
+    background-color: black;
+    font-size: xx-large;
+}
+
+.buton1{
+    border: solid 3px black;
+    background-color: gray;
+    }
+    .buton{
+        background-color: black;
+        border: solid 3px black;
+        color: white;
+    }
+    .order{
+        border: solid 3px gray;
+    width: 20%;
+    background-color: aliceblue;
+margin-left: 600px;
+margin-top: 200px;
+font-size: xx-large;
+font-weight: bolder;
+
+    text-align: center;}
+    
+    
+    .bord{
+        border-bottom: solid 3px black;
+    }
+        .lab{
+            display: block;
+        }
